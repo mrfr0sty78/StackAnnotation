@@ -36,7 +36,7 @@ public class MyStringStack {
     	//throw new NoSuchElementException();
     	String result = v.lastElement();
     	v.remove(result);
-    	System.out.println("hello");
+    	System.out.println("hello jamie");
     	return result;
 
         //return v.lastElement();
